@@ -181,7 +181,6 @@ export default function Day(props) {
                 textStyle,
                 styles.disabledText,
                 disabledDatesTextStyle,
-                styles.selectedDisabledText,
                 selectedDisabledDatesTextStyle,
                 overrideOutOfRangeTextStyle,
               ]}
